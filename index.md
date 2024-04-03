@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 # iOpt Installation Manuals
 
 ## Invisible Systems
