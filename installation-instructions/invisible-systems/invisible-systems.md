@@ -7,4 +7,4 @@ has_children: true
 
 # Invisible Systems
 
-- [131A](installation-instructions/invisible-systems/131A)
+- [131A](131A)
