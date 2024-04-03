@@ -7,4 +7,3 @@ has_children: true
 
 # Invisible Systems
 
-- [131A](131A)
